@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Hello sharath kumar"
+echo "I love you sandya" 
+
+ 
