@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Hello sharath kumar"
+echo "I love you sandya" 
+
+if [[ $x -lt 50 ]]; then
+  echo 'Work Harder!'
+fi 
