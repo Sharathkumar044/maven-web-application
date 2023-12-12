@@ -3,3 +3,4 @@ echo "hello hi"
 pwd 
 ls 
 ps 
+df -hm
